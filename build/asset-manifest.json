@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.0ec9cec4.chunk.css",
-    "main.js": "/static/js/main.bc8dd534.chunk.js",
-    "main.js.map": "/static/js/main.bc8dd534.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f294effb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f294effb.js.map",
-    "static/js/2.b089a0b0.chunk.js": "/static/js/2.b089a0b0.chunk.js",
-    "static/js/2.b089a0b0.chunk.js.map": "/static/js/2.b089a0b0.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.baa536e057cc2bcbf744a7afabead13b.js": "/precache-manifest.baa536e057cc2bcbf744a7afabead13b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.0ec9cec4.chunk.css.map": "/static/css/main.0ec9cec4.chunk.css.map"
+    "main.css": "/jfdezd.github.io/static/css/main.0ec9cec4.chunk.css",
+    "main.js": "/jfdezd.github.io/static/js/main.bc8dd534.chunk.js",
+    "main.js.map": "/jfdezd.github.io/static/js/main.bc8dd534.chunk.js.map",
+    "runtime-main.js": "/jfdezd.github.io/static/js/runtime-main.9070b3e8.js",
+    "runtime-main.js.map": "/jfdezd.github.io/static/js/runtime-main.9070b3e8.js.map",
+    "static/js/2.b089a0b0.chunk.js": "/jfdezd.github.io/static/js/2.b089a0b0.chunk.js",
+    "static/js/2.b089a0b0.chunk.js.map": "/jfdezd.github.io/static/js/2.b089a0b0.chunk.js.map",
+    "index.html": "/jfdezd.github.io/index.html",
+    "precache-manifest.336d894266aeaf9d3f77a9bceeb1427d.js": "/jfdezd.github.io/precache-manifest.336d894266aeaf9d3f77a9bceeb1427d.js",
+    "service-worker.js": "/jfdezd.github.io/service-worker.js",
+    "static/css/main.0ec9cec4.chunk.css.map": "/jfdezd.github.io/static/css/main.0ec9cec4.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.f294effb.js",
+    "static/js/runtime-main.9070b3e8.js",
     "static/js/2.b089a0b0.chunk.js",
     "static/css/main.0ec9cec4.chunk.css",
     "static/js/main.bc8dd534.chunk.js"
